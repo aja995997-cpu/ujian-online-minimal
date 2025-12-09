@@ -23,7 +23,7 @@ Aplikasi ini menyediakan sistem ujian lengkap dengan panel **Admin** dan **Siswa
   * Tambah / edit siswa.
   * Reset login siswa (force logout).
   * Melihat riwayat nilai siswa.
-* Upload soal melalui file **CSV** (format: `soal,a,b,c,d,kunci`).
+* Upload soal melalui file **CSV** (format: `Soal,A,B,C,D,Jawaban`).
 * Membuat sesi ujian dengan durasi tertentu.
 * Menambah peserta ujian.
 * Start & Stop ujian (real-time lewat WebSocket).
@@ -65,7 +65,7 @@ Aplikasi ini menyediakan sistem ujian lengkap dengan panel **Admin** dan **Siswa
 
 File CSV harus memiliki format:
 
-| Soal                | A      | B     | C      | D      | jawaban |
+| Soal                | A      | B     | C      | D      | Jawaban |
 | ------------------- | ------ | ----- | ------ | ------ | ------- |
 | Siapa penemu lampu? | Edison | Tesla | Newton | Pascal | A       |
 
