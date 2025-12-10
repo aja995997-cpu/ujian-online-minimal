@@ -229,6 +229,6 @@ Admin dan siswa **login dari halaman yang sama**:
 
 # 📸 Screenshots
 
-![Dashboard Admin](screenshots/dashboard_admin.png)
+![Dashboard Admin](screenshots/dashboard_admin.PNG)
 
-![Home Siswa](screenshots/home_siswa.png)
+![Home Siswa](screenshots/home_siswa.PNG)
