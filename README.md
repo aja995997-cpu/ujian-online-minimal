@@ -20,7 +20,7 @@ Aplikasi ini menyediakan sistem ujian lengkap dengan panel **Admin** dan **Siswa
 * Login Secure (SHA256 admin password + single-session login).
 * Manajemen Siswa:
 
-  * Tambah / edit siswa.
+  * Tambah / edit siswa. (Nama Lengkap Siswa tidak boleh ada ada karakter spesial cth. (') )
   * Reset login siswa (force logout).
   * Melihat riwayat nilai siswa.
 * Upload soal melalui file **CSV** (format: `Soal,A,B,C,D,Jawaban`).
